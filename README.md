@@ -24,7 +24,7 @@ This is the backend service for the Task Management application. It provides RES
 
 ### Clone the repository
 ```sh
-git clone <repository-url>
+git clone https://github.com/NishanthIlango/Task-manager-backend.git
 cd task-management-backend
 ```
 
